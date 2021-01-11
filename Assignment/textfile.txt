@@ -1,0 +1,4 @@
+Apache Spark is a data processing framework that can quickly perform processing tasks on very large data sets,
+and can also distribute data processing tasks across multiple computers, 
+either on its own or in tandem with other distributed computing tools.
+it has become one of the key big data distributed processing frameworks in the world.

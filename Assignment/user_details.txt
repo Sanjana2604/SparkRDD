@@ -1,0 +1,11 @@
+Sanjana,16-05-1998,81235,sanjana@gmail.com,Karnataka
+Reshma,11-02-1997,98786,resh@gmail.com,JammuKashmir
+Nidhi,31-01-1996,98675,nidhi@gmail.com,AndhraPradesh
+Davor,12-03-1995,89523,davor@gmail.com,TamilNadu
+Abhishek,04-07-1993,78234,abhi@gmail.com,Gujarat
+Soumya,21-10-1996,65432,soumya@gmail.com,WestBengal
+Srinidhi,05-09-1993,87474,srinidhi@gmail.com,Rajasthan
+Bhakti,13-02-1997,76893,bhakti@gmail.com,Punjab
+sangeeta,04-08-1995,98234,sangeta@gmail.com,JammuKashmir
+Vikas,05-09-1997,86574,vikas@gmail.com,Maharashtra
+Ranjan,17-12-1994,67895,ranjan@gmail.com,UttarPradesh
